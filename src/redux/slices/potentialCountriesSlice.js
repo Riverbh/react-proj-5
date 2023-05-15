@@ -6,7 +6,7 @@ export const potentialContriesSlice = createSlice({
         value: [
             {
                 name:{
-                    common: "America",
+                    common: "This is initialPotential",
                 },
             },
         ],
